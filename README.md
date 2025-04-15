@@ -1,82 +1,76 @@
-# Portfolio-Project
+# 🌐 My Web Development Portfolio
 
-Featured Projects
-1. Sawdee Siam (Thailand Culture & Guide)
-Description: A static website introducing Thai culture, traditions, and travel tips.
+A responsive, frontend-focused portfolio showcasing six unique projects built with HTML, CSS, JavaScript, React, and Python. Each project highlights different aspects of my learning journey—from simple static pages to interactive applications.
 
-Tech Stack: HTML, CSS, JavaScript
+## 🚀 Overview
 
-Key Features:
+This portfolio represents my growth in web development, covering core technologies like **HTML**, **CSS**, **JavaScript**, and **React**. From cultural websites to classic games, every project reflects a hands-on learning experience with modern web design and user interaction.
 
-Responsive design
+---
 
-Image galleries with hover effects
+## 📂 Featured Projects
 
-Basic DOM manipulation for interactive elements
+### 1. **Sawsdee Siam** — *Thailand Culture & Guide*  
+📄 **Tech Stack**: HTML, CSS, JavaScript  
+🎯 **Features**:
+- Responsive layout  
+- Image galleries with hover effects  
+- Basic DOM interactions
 
-2. My Portfolio (Adobe Express Design)
-Description: A personal portfolio built with React and styled using Adobe Express.
+---
 
-Tech Stack: React, CSS, Adobe Express
+### 2. **My Portfolio** — *React + Adobe Express Design*  
+⚛️ **Tech Stack**: React, CSS, Adobe Express  
+🎯 **Features**:
+- Component-based structure  
+- Smooth animations  
+- Mobile-first design
 
-Key Features:
+---
 
-Component-based structure
+### 3. **Tic Tac Toe** — *Classic Web Game*  
+🎮 **Tech Stack**: HTML, CSS, JavaScript  
+🎯 **Features**:
+- Win/draw logic  
+- Interactive UI  
+- Minimalist style
 
-Smooth animations
+---
 
-Responsive layout
+### 4. **Simple Snake Game** — *Python Terminal Game*  
+🐍 **Tech Stack**: Python  
+🎯 **Features**:
+- Keyboard controls (WASD/Arrow keys)  
+- Score tracking  
+- Game over detection
 
-3. Tic Tac Toe (HTML/CSS/JS Game)
-Description: A classic game built with vanilla JavaScript.
+---
 
-Tech Stack: HTML, CSS, JavaScript
+### 5. **Image Hover Effects** — *CSS Animation Demo*  
+🖼️ **Tech Stack**: HTML, CSS  
+🎯 **Features**:
+- Smooth transitions  
+- Overlay text effects  
+- Pure CSS only
 
-Key Features:
+---
 
-Game logic with win/draw conditions
+### 6. **Business Startup** — *Landing Page Mockup*  
+🏢 **Tech Stack**: HTML, CSS  
+🎯 **Features**:
+- Clean, modern design  
+- Call-to-action buttons  
+- Mobile-responsive layout
 
-Interactive UI
+---
 
-Minimalist design
+## 🛠️ Technologies Used
 
-4. Simple Snake Game (Python-based)
-Description: A terminal-based Snake game built with Python.
+- **Frontend**: React, HTML5, CSS3, JavaScript  
+- **Styling**: Bootstrap, Adobe Express  
+- **Tools**: Git, Visual Studio Code  
 
-Tech Stack: Python
+---
 
-Key Features:
-
-Keyboard controls (WASD/Arrow keys)
-
-Score tracking
-
-Game over detection
-
-5. Image Hover (Photographic Effects)
-Description: A demo of CSS hover animations on images.
-
-Tech Stack: HTML, CSS
-
-Key Features:
-
-Smooth transitions
-
-Overlay text effects
-
-Pure CSS (no JavaScript)
-
-6. Business Startup (Design Concept)
-Description: A landing page mockup for a fictional startup.
-
-Tech Stack: HTML, CSS
-
-Key Features:
-
-Clean, modern layout
-
-Call-to-action buttons
-
-Mobile-responsive
-
-
+Feel free to explore the projects and check out the code!  
+⭐ Star this repo if you enjoy the work!
