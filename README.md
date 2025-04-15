@@ -1,4 +1,4 @@
-# 🌐 My Web Development Portfolio
+# My Web Development Portfolio
 
 A responsive, frontend-focused portfolio showcasing six unique projects built with HTML, CSS, JavaScript, React, and Python. Each project highlights different aspects of my learning journey—from simple static pages to interactive applications.
 
